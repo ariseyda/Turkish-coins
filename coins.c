@@ -3,9 +3,10 @@
 
 //Write a program to dispense change. 
 //The user enters the amount paid and the amount due. 
-//The program determines how many Lira, 50 Kuruþ, 25 Kurus, 10 Kurus, and 5 Kurus should be given as change with least number of coins. 
+//The program determines how many Lira, 50 KuruÃ¾, 25 Kurus, 10 Kurus, and 5 Kurus should be given as change with least number of coins. 
 //Write a function with five output parameters that determines the quantity of each kind of coin. 
 //Lira=Turkish currency(1 lira= 2 x (50 kurus)
+//Kurus=A monetary unit of Turkey, equal to one hundredth of a Turkish lira.
 
 void give_back(float d,float p){
 	
